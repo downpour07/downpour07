@@ -37,7 +37,7 @@
 </div>
 <br/>
 <h2 align="center">
-  📈It's Me📈
+  🖐️It's Me🖐️
 </h2>
 <br/>
 <div align="center">
