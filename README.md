@@ -4,8 +4,8 @@
 </div>
 <hr/>
 <br/>
-<div align="center">👨‍💻Frontend Developer👨‍💻</div>
 <div align="center">👨‍💻Firmware Developer👨‍💻</div>
+<div align="center">👨‍💻Frontend Developer👨‍💻</div>
 <br/>
 <h2 align="center">
   💻Tech Stack💻
