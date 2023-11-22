@@ -44,7 +44,7 @@
   
   <a href="mailto:choiheeyoung10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choiheeyoung10@gmail.com"/></a>
   <a href="https://www.instagram.com/youn_nce"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/youn_nce"/></a>
-  <a href="https://www.notion.so/PORTPOLIO-3827f927d19142e2a4e0a6806ad7db95?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/PORTPOLIO-3827f927d19142e2a4e0a6806ad7db95?pvs=4"/></a>
+  <a href="[https://www.notion.so/PORTPOLIO-3827f927d19142e2a4e0a6806ad7db95?pvs=4](https://storm-airbus-67e.notion.site/PORTPOLIO-3827f927d19142e2a4e0a6806ad7db95?pvs=4)"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/PORTPOLIO-3827f927d19142e2a4e0a6806ad7db95?pvs=4"/></a>
 </div>
 <div align="center">
 
