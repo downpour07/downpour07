@@ -1,9 +1,3 @@
-<div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=HeeyoungChoi&fontColor=9DB1FA)
-</div>
-<hr/>
-<br/>
 <div align="center">👨‍💻Firmware Developer👨‍💻</div>
 <div align="center">👨‍💻Frontend Developer👨‍💻</div>
 <br/>
