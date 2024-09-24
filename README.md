@@ -1,12 +1,9 @@
-<div align="center">👨‍💻Firmware Developer👨‍💻</div>
-<div align="center">👨‍💻Frontend Developer👨‍💻</div>
-<br/>
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚀&fontAlign=70)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpour07&layout=compact)](https://github.com/downpour07/github-readme-stats)
-</div>
-<br/>
-<div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=downpour07&theme=tokyonight)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downpour07&show_icons=true&theme=radical)
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=downpour07&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=downpour07&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=downpour07&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=downpour07&theme=tokyonight&utcOffset=8)
